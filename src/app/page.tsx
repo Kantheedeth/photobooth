@@ -7,7 +7,7 @@ type ApiError = { error: string };
 
 const PRESETS = [
   {
-    label: "Gov / Civil Service",
+    label: "Govment / Civil Service",
     text:
       "Formal Thai government ID photo. Black suit jacket, white dress shirt, conservative tie; neat short haircut. Keep same face/identity. Plain blue background, even lighting.",
   },
